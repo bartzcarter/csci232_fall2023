@@ -1,0 +1,3 @@
+Sequence: [13, 6, 19, 17, 9, 18, 3, 5, 14, 15, 10, 12, 16, 1, 4, 7, 20, 8, 11, 2]
+Graph: Longest increasing subsequence is 6
+DP: Length of longest increasing subsequence is 6

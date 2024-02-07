@@ -1,0 +1,21 @@
+Is string pneumonoultramicroscopicsilicovolcanoconiosis unique? false
+Unique characters are etv
+
+Is string cabestro unique? true
+Unique characters are abceorst
+
+Is string hippopotomonstrosesquippedaliophobia unique? false
+Unique characters are bdlmnqru
+
+Is string cajolery unique? true
+Unique characters are acejlory
+
+Is string supercalifragilisticexpialidocious unique? false
+Unique characters are dfgtx
+
+Is string calibred unique? true
+Unique characters are abcdeilr
+
+Is string campfire unique? true
+Unique characters are acefimpr
+

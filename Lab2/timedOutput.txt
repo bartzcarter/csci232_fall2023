@@ -1,0 +1,75 @@
+1.
+    b.
+        Carter Bartz Times:
+
+        250 0.006034
+        500 0.020572
+        1000 0.142819
+        2000 1.108001
+        4000 8.780437
+        8000 69.097564
+
+        running time compared with N = 1.3495617968750001E-10 x N cubed
+
+
+
+        Professors Times:
+
+        250 0.000000
+        500 0.031250
+        1000 0.359375
+        2000 3.062500
+        4000 30.046875
+        8000 304.078125
+
+        Running time is about 0.998 x 10 ^ –10 x N cubed seconds
+
+
+            i.
+            Comparison: As we can see, the time that the program took to execute on my device was much faster than the results given in the lecture slides.
+            This is a comparison based on the CPU of our devices given different sizes of input. An input of size 250 takes almost no time at all. Additionally,
+            for both our devices, the program took less than 1 second to execute with input sizes of up to 1000. From here on out is where we really can start 
+            to tell the difference between the two run times. An input size of 2000 took my device a little over 1 second while it took the Professors a good 3 seconds.
+            An input size of 4000 was about 3.5 times faster for my device while the input size of 8000 was about 4.4 times faster.
+            Lastly, the estimated time equations show that my device will be much faster than the given output from the lecture slides.
+
+
+            ii.
+            N = 16000 run time estimation: 
+            N = 1.3596676171874999E-10 * 16000^3
+            16000^3 = 4,096,000,000,000
+            N = 1.3596676171874999E-10 * 4,096,000,000,000
+            N ≈ 5570.733 seconds
+            So, the estimated run time for N = 16000 based on the formula is approximately 5570.733 seconds.
+
+
+2. 
+    i. 
+    int sum = 0;
+    for (int k = n; k > 0; k /= 2)   --> O(logn)
+        for (int i = 0; i < k; i++) --> O(n)
+            sum++;
+
+    Time Equation: T(n) = O(log(n)) * O(n) = O(n * log(n))
+    Big O Notation: O(n * log(n))
+
+
+    ii. 
+    int sum = 0;
+    for (int i = 1; i < n; i *=2) --> O(logn)
+        for (int j = 0; j < i; j++) --> O(n)
+            sum++;
+
+    Time Equation: T(n) = O(log(n)) * O(n) = O(n * log(n))
+    Big O Notation: O(n * log(n))
+
+
+    iii.
+    int sum = 0;
+    for (int i = 1; i < n; i *=2)
+        for (int j = 0; j < n; j++) 
+            sum++;
+
+    Time Equation: T(n) = O(log(n)) * O(n) = O(n * log(n))
+    Big O Notation: O(n * log(n))
+

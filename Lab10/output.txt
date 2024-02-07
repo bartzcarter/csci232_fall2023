@@ -1,0 +1,17 @@
+Montana to Utah (2): Montana-Wyoming-Utah
+Montana to Nevada (2): Montana-Idaho-Nevada
+Montana to Colorado (2): Montana-Wyoming-Colorado
+Montana to Nebraska (2): Montana-Wyoming-Nebraska
+Montana to Oregon (2): Montana-Idaho-Oregon
+Montana to Iowa (2): Montana-SouthDakota-Iowa
+Montana to Minnesota (2): Montana-SouthDakota-Minnesota
+Montana to Washington (2): Montana-Idaho-Washington
+Montana to Arizona (3): Montana-Wyoming-Utah-Arizona
+Montana to California (3): Montana-Idaho-Nevada-California
+Montana to Oklahoma (3): Montana-Wyoming-Colorado-Oklahoma
+Montana to Illinois (3): Montana-SouthDakota-Iowa-Illinois
+Montana to Missouri (3): Montana-Wyoming-Nebraska-Missouri
+Montana to Michigan (3): Montana-SouthDakota-Minnesota-Michigan
+Montana to Kansas (3): Montana-Wyoming-Colorado-Kansas
+Montana to Wisconsin (3): Montana-SouthDakota-Iowa-Wisconsin
+Montana to NewMexico (3): Montana-Wyoming-Utah-NewMexico
